@@ -8,7 +8,7 @@ subtitle: Applied Microeconomics, Real Estate, and Housing Policy
 
 <div class="profile-container">
   <div class="profile-picture">
-    <img src="/assets/img/Headshot-Office-Crop.jpg" alt="Profile Picture"/>
+    <img src= {{ "/assets/img/Headshot-Office-Crop.jpg" | relative_url }} alt="Profile Picture"/>
   </div>
   <div class="profile-text">
     <p>Scott Susin is a Senior Economist at the Federal Housing Finance Agency (FHFA), specializing in the 

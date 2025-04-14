@@ -6,10 +6,14 @@ subtitle: Applied Microeconomics, Data Science, and Statistics <br>
           for Real Estate, Consumer Finance, and Housing Policy
 ---
 
+<div class="page-subheading">
 Areas of Focus
-* Real Estate
-* Consumer Finance
-* Housing Policy
+<ul>
+          <li>Real Estate</li> 
+          <li>Consumer Finance</li>
+          <li>Housing Policy</li>
+</ul>
+</div>
 
 <div class="profile-container">
   <div class="profile-picture">

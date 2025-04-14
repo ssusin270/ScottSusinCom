@@ -5,6 +5,8 @@ title:        Scott Susin
 subtitle: Applied Microeconomics, Data Science, and Statistics <br>
           for Real Estate, Consumer Finance, and Housing Policy
 ---
+
+<header>
 <div class="page-subheading">
 Areas of Focus
 <ul>
@@ -13,7 +15,8 @@ Areas of Focus
           <li>Housing Policy</li>
 </ul>
 </div>
-
+</header>
+S
 <div class="profile-container">
   <div class="profile-picture">
     <img src= "{{ '/assets/img/Headshot-Office-Crop.jpg' | relative_url }}" alt="Profile Picture"/>

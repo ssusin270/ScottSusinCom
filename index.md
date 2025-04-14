@@ -4,7 +4,8 @@ round-avatar: false
 title:        Scott Susin
 subtitle: Applied Microeconomics, Real Estate, and Housing Policy
 ---
-
+# Real Estate
+# Housing
 
 <div class="profile-container">
   <div class="profile-picture">

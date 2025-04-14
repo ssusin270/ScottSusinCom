@@ -6,17 +6,15 @@ subtitle: Applied Microeconomics, Data Science, and Statistics <br>
           for Real Estate, Consumer Finance, and Housing Policy
 ---
 
-<header>
-<div class="page-subheading">
+<h3 class="page-subheading">
 Areas of Focus
 <ul>
           <li>Real Estate</li> 
           <li>Consumer Finance</li>
           <li>Housing Policy</li>
 </ul>
-</div>
-</header>
-S
+</h3>
+
 <div class="profile-container">
   <div class="profile-picture">
     <img src= "{{ '/assets/img/Headshot-Office-Crop.jpg' | relative_url }}" alt="Profile Picture"/>

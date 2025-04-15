@@ -30,10 +30,11 @@
             {% else %}
               <h2 class="{{ include.type }}-subheading">{{ page.subtitle | strip_html }}</h2>
             {% endif %}
-          {% if page.focus %}
-              <h3 class="{{ include.type }}-subheading">Areas of Focus: {{ page.focus | strip_html }}</h3>
           {% endif %}
-            <hr class="medium">
+          {% if page.focus %}
+            <h3 class="{{ include.type }}-subheading">Areas of Focus: {{ page.focus | strip_html }}</h3>
+          {% endif %}
+          <hr class="medium">
           
           {% if include.type == "post" %} 
             {% if page.author %}

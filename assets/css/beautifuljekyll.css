@@ -116,7 +116,7 @@ blockquote p:first-child {
 .jumbotron {
   background: #EEE;
 }
-hr.small, hr.medium, hr.large {
+hr.small hr.medium hr.large {
   max-width: 6.25rem;
   margin: 1rem auto;
   border-width: 0.25rem;

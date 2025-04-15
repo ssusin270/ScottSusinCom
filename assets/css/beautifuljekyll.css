@@ -765,7 +765,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
-.page-subheading h2 {
+h2.page-subheading {
   font-size: 1.6875rem;
   line-height: 1.1;
   display: block;
@@ -773,7 +773,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
   font-weight: 300;
   margin: 0.625rem 0 0;
 }
-.page-subheading h3 {
+h3.page-subheading {
   font-size: 1.5rem;
   line-height: 1.1;
   display: block;

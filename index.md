@@ -5,7 +5,7 @@ title:        Scott Susin
 subtitle: Applied Microeconomics, Data Science, and Statistics
 ---
 
-<h3 class="page-subheading" style="font-weight:300;">
+<h3 class="page-subheading" style="font-weight:300; font-size: 1.2rem;">
 Areas of Focus
 <ul>
           <li>Real Estate</li> 

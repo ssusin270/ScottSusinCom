@@ -3,7 +3,7 @@ layout:       home
 round-avatar: false
 title:        Scott Susin
 subtitle: Applied Microeconomics, Data Science, and Statistics
-focus: Real Estate, Consumer Finance, Housing Policy
+focus: Real Estate, Consumer Finance, Housing Policy 
 ---
 
 <!--h3 class="page-subheading" style="font-weight:300; font-size: 1.375rem; line-height:1.5;">

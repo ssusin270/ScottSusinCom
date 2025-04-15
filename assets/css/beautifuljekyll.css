@@ -125,7 +125,7 @@ hr.small {
 }
 
 hr.medium, hr.large {
-  max-width: 12rem;
+  max-width: 24rem;
   margin: 1rem auto;
   border-width: 0.25rem;
   border-color: inherit;

@@ -21,8 +21,8 @@ focus: Real Estate, Consumer Finance, Housing Policy
   </div>
   <div class="profile-text">
     <p>Scott Susin is a Senior Economist at the Federal Housing Finance Agency (FHFA), specializing in the 
-    regulation of Fannie Mae and Freddie Mac. His work focuses on analyzing disparities in mortgage 
-    interest rates and home appraisals. Previously, Scott served as an economist in HUD’s Office of 
+    regulation of Fannie Mae and Freddie Mac. His work focuses on consumer protection, fair lending, and 
+	affordable housing. Previously, Scott served as an economist in HUD’s Office of 
     Systemic Investigations, where he led econometric analysis for two of the agency’s largest fair 
     lending settlements, including the then-largest redlining settlement in the U.S.</p>
   </div>

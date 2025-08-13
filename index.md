@@ -20,11 +20,7 @@ focus: Real Estate, Consumer Finance, Housing Policy
     <img src= "{{ '/assets/img/Headshot-Office-Crop.jpg' | relative_url }}" alt="Profile Picture"/>
   </div>
   <div class="profile-text">
-    <p>Scott Susin is a Senior Economist at the Federal Housing Finance Agency (FHFA), specializing in the 
-    regulation of Fannie Mae and Freddie Mac. His work focuses on consumer protection, fair lending, and 
-	affordable housing. Previously, Scott served as an economist in HUD’s Office of 
-    Systemic Investigations, where he led econometric analysis for two of the agency’s largest fair 
-    lending settlements, including the then-largest redlining settlement in the U.S.</p>
+    <p>Scott Susin is the founder of the <a href = "https://mortgageaccesscenter.com/">Center for Mortgage Access</a>, a policy research organization dedicated to the role of public mortgage finance in expanding equitable access to homeownership. Previously, he served as a Senior Economist at the Federal Housing Finance Agency (FHFA), the primary regulator of Fannie Mae and Freddie Mac. There, he focused on analyzing disparities in mortgage interest rates and home appraisals. Scott has also worked at HUD’s Office of Systemic Investigations, where he led econometric analysis for two of the agency’s largest fair lending settlements, including the then-largest redlining settlement in the U.S..</p>
   </div>
 </div>
 

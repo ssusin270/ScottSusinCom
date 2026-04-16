@@ -5,7 +5,7 @@ subtitle: FHFA Insights Blog
 cover-img: #/assets/img/path.jpg
 thumbnail-img: /assets/img/Figure1-Disparities-Blog.jpg
 share-img: #/assets/img/path.jpg
-blog-pdf: '/assets/pdf/Underutilization of Appraisal Time Adjustments-original.pdf'
+blog-pdf: 'assets/pdf/Underappraisal Disparities and Time Adjustments-original.pdf'
 tags: [appraisal, disparities,time-adjustment]
 blog-archive: 'https://web.archive.org/web/20240228223726/https://www.fhfa.gov/Media/Blog/Pages/Underappraisal-Disparities-and-Time-Adjustments.aspx'
 author: Scott Susin
